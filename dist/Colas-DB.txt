@@ -1,0 +1,36 @@
+{"Archivo": "Chrome", "Extension": ".exe"}
+{"Archivo": "DotMod", "Extension": ".iso"}
+{"Archivo": "Chrome", "Extension": ".fon"}
+{"Archivo": "Visual Studio", "Extension": ".mwv"}
+{"Archivo": "TUF", "Extension": ".avi"}
+{"Archivo": "Visual Studio", "Extension": ".dll"}
+{"Archivo": "FL Studio", "Extension": ".gif"}
+{"Archivo": "TablaExcel", "Extension": ".zip"}
+{"Archivo": "VGOD", "Extension": ".avi"}
+{"Archivo": "Aura", "Extension": ".ibook"}
+{"Archivo": "Proyecto", "Extension": ".docx"}
+{"Archivo": "Carpeta", "Extension": ".exe"}
+{"Archivo": "Call of Duty", "Extension": ".bmp"}
+{"Archivo": "Epic Launcher", "Extension": ".exe"}
+{"Archivo": "MSI Afterburner", "Extension": ".pdl"}
+{"Archivo": "Age of Empires", "Extension": ".rar"}
+{"Archivo": "KeyboardRGB", "Extension": ".db"}
+{"Archivo": "KeyboardRGB", "Extension": ".bmp"}
+{"Archivo": "TablaExcel", "Extension": ".pef"}
+{"Archivo": "ROG", "Extension": ".iso"}
+{"Archivo": "TUF", "Extension": ".mp4"}
+{"Archivo": "OPERA", "Extension": ".docx"}
+{"Archivo": "OPERA", "Extension": ".ibook"}
+{"Archivo": "Aura", "Extension": ".bmp"}
+{"Archivo": "Steam", "Extension": ".jpg"}
+{"Archivo": "Ajustes", "Extension": ".fon"}
+{"Archivo": "OPERA", "Extension": ".mwv"}
+{"Archivo": "Documento1", "Extension": ".fon"}
+{"Archivo": "FL Studio", "Extension": ".jpg"}
+{"Archivo": "uTorrent", "Extension": ".ibook"}
+{"Archivo": "Steam", "Extension": ".ibook"}
+{"Archivo": "Ajustes", "Extension": ".ibook"}
+{"Archivo": "ROG", "Extension": ".dll"}
+{"Archivo": "Aura", "Extension": ".mp4"}
+{"Archivo": "OPERA", "Extension": ".bat"}
+{"Archivo": "Photoshop", "Extension": ".wav"}
